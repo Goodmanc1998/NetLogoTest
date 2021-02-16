@@ -5,6 +5,8 @@ to setup
   setup-patches
   setup-turtles
 
+  Goodman has massive cake
+
   reset-ticks
 end
 
